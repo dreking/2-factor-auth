@@ -1,5 +1,3 @@
-This is
-
 # Get Started
 
 This project is to describe how to implement two factor authentication with either google/microsoft or any other authenticator app.
